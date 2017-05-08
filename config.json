@@ -1,0 +1,21 @@
+{"config":
+{
+  "receiveremailid":"renu.parameswaran@gmail.com",
+  "body":"Hi,\n \nMy name is Renu Parameswaran and my sjsu id is 011819574.This is an email to book an appointment during your office hours.\nLet me know if there is any slot available\n \nThanks and Regards \nRenu Parameswaran",
+  "questionList": ["who","where","what","why","when","how","which","Whose","whom"],
+  "initialDisplayMessage":"I am Sara, The first of my name!!Enter which mode you have to enter\n1: Chat Mode\n2: Training Mode\n3: Feedback Mode\n4: Statistics Mode\n5:Weather Mode \nExit: Exit\n",
+  "channel":"C4MN6TUEL",
+  "chatResponse":"Chat mode initiated. Enter your Question",
+  "trainingResponse1":"Training mode initiated. Enter your Question",
+  "trainingResponse2":"Enter your Answer for the Question",
+  "statisticsResponse":"Statistics mode initiated.",
+  "feedbackResponse1":"Feedback mode initiated. Enter your Response ID",
+  "feedbackResponse2":"Was the Answer given by Sara correct? Please enter Yes or No",
+  "feedbackResponseYes":"Thanks for your Feedback!!Do you like to give more Feedback? Please type yes or no",
+  "feedbackResponseNo":"Please Enter the correct answer",
+  "weatherResponse":"Weather Mode Initiated. I can give you weather for 3 places. What would you like to know?",
+  "dbConnectionError":"Cannot connect to db. please contact sara administrators",
+  "twoQuestionsError":"I can handle only one question right now. I will be more intelligent in next version. Sorry for incovenience.",
+  "noAppropriateResponseFound":"Sorry I cannot find the appropriate answer for your question. Please remember I can answer only questions from the greensheet",
+  "ambiguousInput":"Your question is not clear. Please be more specific."
+}}
